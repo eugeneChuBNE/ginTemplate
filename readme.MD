@@ -99,6 +99,12 @@ Organizes and stores test files and resources for the application.
    cd api-template
    ```
 
+OR:
+    ```bash
+   git clone https://github.com/vietnix-org/api-template.git
+   cd api-template
+   ```
+
 2. Install dependencies
     ```bash
     go mod tidy
