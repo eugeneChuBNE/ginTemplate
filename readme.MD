@@ -97,10 +97,6 @@ Organises and stores test files and resources for the application.
 ```bash
    git clone https://github.com/eugeneChuBNE/ginTemplate
 ```
-OR:
-```bash
-    git clone https://github.com/vietnix-org/api-template.git
-```
 
 2. Install dependencies
 ```bash
