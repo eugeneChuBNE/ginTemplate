@@ -131,4 +131,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Authors
 
 - Eugene Chu - [eugeneChuBNE](https://github.com/eugeneChuBNE)
+- As a contribution to Vietnix JSC
 
+Ho Chi Minh city, Vietnam | 2024
