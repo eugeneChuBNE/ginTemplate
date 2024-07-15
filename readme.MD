@@ -1,6 +1,6 @@
 # API Template
 
-The `api-template` project is a Golang-based template for building versioned RESTful APIs using the Gin framework. This template supports multiple API versions, organized for modularity and maintainability.
+The `api-template` project is a Golang-based template for building versioned RESTful APIs using the Gin framework. This template supports multiple API versions, organised for modularity and maintainability.
 
 ## Project Structure
 
@@ -58,7 +58,7 @@ Contains the main application entry point.
 ### internal/
 Contains packages intended for internal use within the project.
 
-- **app/**: Core application logic, organized by version (e.g., v1, v2).
+- **app/**: Core application logic, organised by version (e.g., v1, v2).
   - **v1/**: Handlers, middleware, models, repositories, services.
   - **v2/**: Handlers, middleware, models, repositories, services.
 - **logging/**: Custom logging setup and configuration.
@@ -74,7 +74,7 @@ Contains code and configurations for external dependencies or services.
 Contains reusable utility and helper packages shared across the application.
 
 ### test/
-Organizes and stores test files and resources for the application.
+Organises and stores test files and resources for the application.
 
 - **integration/**: Integration tests.
   - **v1/**: Integration tests for API v1.
