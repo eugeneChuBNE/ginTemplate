@@ -94,28 +94,25 @@ Organises and stores test files and resources for the application.
 ### Installation
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/eugeneChuBNE/ginTemplate
-   cd api-template
-   ```
-
+```
 OR:
-    ```bash
-   git clone https://github.com/vietnix-org/api-template.git
-   cd api-template
-   ```
+```bash
+    git clone https://github.com/vietnix-org/api-template.git
+```
 
 2. Install dependencies
-    ```bash
+```bash
     go mod tidy
-    ```
+```
 
 ### Running the Application
 
 Start the application servers for different API versions:
 
 ```bash
-go run cmd/main.go
+    go run cmd/main.go
 ```
 
 ### Running tests
@@ -123,7 +120,7 @@ go run cmd/main.go
 Run the tests to ensure everything is working:
 
 ```bash
-go test ./...
+    go test ./...
 ```
 
 ## Contributing
